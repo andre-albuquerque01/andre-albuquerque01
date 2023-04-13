@@ -1,8 +1,8 @@
-HI, PEOPLE!
+# HI, PEOPLE!
 
 I'm systems analysis and development student.
 
-My skills
+My skills </br>
 HTML5
 CSS
 PHP
