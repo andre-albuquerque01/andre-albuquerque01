@@ -3,7 +3,7 @@
 I'm systems analysis and development student.
 
 My skills </br>
-`#RRGGBB`HTML5 </br>
+HTML5 </br>
 CSS </br>
 PHP </br>
 MYSQL </br>
