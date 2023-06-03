@@ -2,7 +2,7 @@
 
 I'm systems analysis and development student.
 
-My skills </br>
+<p style="color:blue">My skills</p> </br>
 HTML5 </br>
 CSS </br>
 PHP </br>
