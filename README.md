@@ -1,6 +1,6 @@
 # HI, PEOPLE!
 
-I'm systems analysis and development student.
+I'm web development.
 
 ### Let's go to talk:
 [![image](img/linkedin.png)](https://www.linkedin.com/in/andr%C3%A9-albuquerque-4990091b1/)
