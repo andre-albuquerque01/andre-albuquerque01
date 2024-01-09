@@ -1,6 +1,8 @@
 # HI!
 
-I'm web full-stack development.
+#### A full-stack developer focused on web applications, building web applications to facilitate life.
+
+#### I am currently studying full stack development, constantly seeking to expand my knowledge in web applications to enhance my skills. I find great joy in being a developer.
 
 ### 💡 My skills:
 
