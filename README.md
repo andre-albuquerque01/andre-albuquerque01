@@ -1,4 +1,4 @@
-# Olá! 👋
+# Hi, there! 👋
 
 As a Full Stack developer specializing in web applications, I am dedicated to creating innovative solutions that simplify and enhance people's lives. My goal is to turn ideas into reality, leveraging my passion for code and my commitment to excellence.
 
