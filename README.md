@@ -13,7 +13,7 @@ I am constantly expanding my knowledge in Full Stack development, always seeking
 ![Git](img/git.png) ![Linux](img/linux.svg) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/scrum-4285F4?style=for-the-badge&logo=scrum&logoColor=black)
 
-## Let's talk
+## 💬 Let's talk
 <a href="https://www.linkedin.com/in/andr%C3%A9-albuquerque-4990091b1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
